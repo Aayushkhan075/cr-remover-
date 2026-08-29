@@ -1,0 +1,16 @@
+{
+  "name": "cr-remover",
+  "version": "1.0.0",
+  "description": "Video Copyright Metadata Remover",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": ["video", "metadata", "copyright", "remover"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
